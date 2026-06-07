@@ -134,7 +134,7 @@ import {
   
   const experiences = [
     {
-      title: "Solution Consultant",
+      title: "Software Consultant",
       company_name: "OMP USA",
       icon: omp,
       iconBg: "#FFFFFF",
@@ -143,7 +143,7 @@ import {
     },
     {
       title: "Freelancer",
-      company_name: "Vissa Solutions Inc.",
+      company_name: "Vissa Inc.",
       icon: starbucks,
       iconBg: "#FFFFFF",
       date: "May 2023 - Apr 2024",
