@@ -14,6 +14,7 @@ import {
     git,
     figma,
     blueyonder,
+    srmss,
     starbucks,
     omp,
     tamu,
