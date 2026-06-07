@@ -265,6 +265,27 @@ import {
       source_code_link: "https://kookoobear9.github.io/flappyBird/",
     },
     {
+      name: "SRM tool",
+      description:
+        "A dummy supplier relationship management app",
+      tags: [
+        {
+          name: "html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: srmss,
+      source_code_link: "https://kookoobear9.github.io/SRMtoolDemo/",
+    },  
+    {
       name: "Chess",
       description:
         "Check mate!  (Desktop Only)",
