@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kookoobear9.github.io/portfolio-website-sanjay-vissa",
+  "homepage": "https://kookoobear9.github.io/sanjayvissa",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
