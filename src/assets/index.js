@@ -34,6 +34,7 @@ import rvce from "./company/rvce.png";
 
 import starbucks from "./company/starbucks.png";
 import omp from "./company/omp.png";
+import srmss from "./srmss.png";
 
 import carrent from "./carrent.png";
 import underconstruction from "./underconstruction.png"
@@ -71,6 +72,7 @@ export {
   rvce,
   carrent,
   omp,
+  srmss,
   underconstruction,
   jobit,
   tripguide,
